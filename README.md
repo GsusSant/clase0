@@ -1,6 +1,6 @@
-![](1371358226883.jpg)
-
 # Python Básico: Ejercicios y Prácticas
+![image](https://github.com/GsusSant/clase0/assets/161477129/4bc3b995-75a4-4b62-827b-454fa24e0fac)
+
 ¡Bienvenido al repositorio de Python Básico! Aquí encontrarás una colección de 8 ejercicios diseñados para ayudarte a fortalecer tus habilidades en Python, centrándonos en conceptos fundamentales como operaciones sencillas, funciones, lambdas, concatenaciones, entre otros.
 
 ## Contribuciones
